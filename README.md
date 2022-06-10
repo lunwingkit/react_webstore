@@ -75,3 +75,5 @@ npx create-react-app ./
 npx install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js react-router-dom react-hook-form
 
 1:35:33 prob: props filling --> sol: react context
+31229
+30911
